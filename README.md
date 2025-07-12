@@ -98,7 +98,9 @@ Feel free to use the code for personal or educational purposes.
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Let's Connect 
+
+ [![Contact Me](https://img.shields.io/badge/Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohdzufran7@gmail.com)
 
 [![GitHub: zufran123](https://img.shields.io/badge/GitHub-zufran123-181717?style=flat-square&logo=github)](https://github.com/zufran123)
  
