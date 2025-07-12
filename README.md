@@ -71,6 +71,7 @@ Data-Analysis-Projects/
 ├── customer-churn-analysis/
 ├── loan-default-analysis/
 ├── e-learning-analysis/
+├── LICENSE
 └── README.md
 ```
 
