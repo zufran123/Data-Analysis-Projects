@@ -95,9 +95,8 @@ Feel free to use the code for personal or educational purposes.
 ---
 
 ## 🔗 Let's Connect
-
-- 🧑‍💻 GitHub: [zufran123](https://github.com/zufran123)  
-- 💼 LinkedIn: [Mohd Zufran](https://www.linkedin.com/in/mohdzufran)
+ 
+[![LinkedIn: mohdzufran](https://img.shields.io/badge/LinkedIn-mohdzufran-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohdzufran)
 
 ---
 
